@@ -1,0 +1,29 @@
+{
+  "name": "udemy_todo-list-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hsins/udemy_jQuery-Todo-List.git"
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "jquery"
+  ],
+  "author": "Hsins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hsins/udemy_jQuery-Todo-List/issues"
+  },
+  "homepage": "https://github.com/Hsins/udemy_jQuery-Todo-List#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.3"
+  }
+}

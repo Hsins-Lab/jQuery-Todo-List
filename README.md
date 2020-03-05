@@ -1,13 +1,13 @@
 <div align="right">
   <img src="https://img.shields.io/badge/Completion-100%25-blue.svg" />
-  <a href="https://github.com/Hsins/udemy_jQuery-Todo-List/blob/master/LICENSE" alt="License">
-    <img src="https://img.shields.io/github/license/Hsins/udemy_jQuery-Todo-List.svg" />
+  <a href="https://github.com/Hsins-TIL/udemy_jQuery-Todo-List/blob/master/LICENSE" alt="License">
+    <img src="https://img.shields.io/github/license/Hsins-TIL/udemy_jQuery-Todo-List.svg" />
   </a>
 </div>
 
 # Udemy Project: jQuery Todo-List
 
-This is a hands-on project from the Udemy course - [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) by Colt Steele. You can find the refactered with MERN stack version [here](https://github.com/Hsins/udemy_MERN-Todo-List).
+This is a hands-on project from the Udemy course - [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) by Colt Steele. You can find the refactered with MERN stack version [here](https://github.com/Hsins-TIL/udemy_MERN-Todo-List).
   
 # Demo
 
